@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Amaranth;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+div {
+    color: black;
+    background-color: white;
+    list-style-type: none;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 1%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: white;
+    background-color: black;
+}
